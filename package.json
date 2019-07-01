@@ -1,0 +1,14 @@
+{
+  "name": "nodejsexercises",
+  "version": "1.0.0",
+  "description": "prova",
+  "main": "02_babySteps.js",
+  "scripts": {
+    "test": "prova"
+  },
+  "author": "davide",
+  "license": "ISC",
+  "dependencies": {
+    "through2-map": "^3.0.0"
+  }
+}
